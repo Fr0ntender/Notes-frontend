@@ -3,7 +3,7 @@
   "private": true,
   "description": "Application to create notes",
   "version": "0.1.0",
-  "author": "Fr0ntender",
+  "author": "Eduard Kirilov <kev987.free@ya.ru>",
   "dependencies": {
     "@apollo/react-hooks": "^3.1.1",
     "@material-ui/core": "^4.4.2",
